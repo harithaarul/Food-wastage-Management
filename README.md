@@ -1,3 +1,3 @@
 link for the webpage:
-foodwastagemanagement.netlify.app
+https://foodwastagemanagement.netlify.app
 
